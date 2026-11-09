@@ -27,19 +27,9 @@ O projeto nasceu para ajudar meu pai no dia a dia das vendas. A API é a primeir
 - Docker
 - Maven
 
-## 🗺️ Roadmap
+## 🤖 Sobre o desenvolvimento
 
-- [ ] Levantamento de requisitos (`docs/requisitos.md`)
-- [ ] Modelagem das entidades e relacionamentos
-- [ ] Estrutura base do projeto Spring Boot + conexão com MySQL
-- [ ] Persistência com JPA e migrations Flyway
-- [ ] Endpoints REST (clientes, produtos, pedidos, pagamentos)
-- [ ] Regras de negócio (saldo devedor, inadimplência, relatórios)
-- [ ] Testes unitários e de integração
-- [ ] Documentação com Swagger
-- [ ] Autenticação com Spring Security + JWT
-- [ ] Docker e deploy
-- [ ] App Android (Java) offline com sincronização — repositório separado
+Este é um projeto de estudo, feito para praticar e ganhar experiência em desenvolvimento backend com Java. Ele está sendo desenvolvido com a ajuda do [Claude](https://claude.ai) (IA da Anthropic), que uso como apoio para tirar dúvidas, revisar código e orientar as decisões ao longo do caminho.
 
 ## ▶️ Como rodar
 
